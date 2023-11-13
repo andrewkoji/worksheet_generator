@@ -48,4 +48,4 @@ Answer: y = -7/5x - 7/5</div><div>
 <h3>Problem 10</h3>
 <p>Solve the following for y: &nbsp; 7x + 3y = -5.</p>
 <br><br><br>
-Answer: y = -7/3x - 5/3</div>
+Answer: y = -7/3x - 5/3</div><div>

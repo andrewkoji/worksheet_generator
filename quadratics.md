@@ -7,11 +7,7 @@
 <p>Date: _____________________</p>
 <p>Mr. Levinton</p>    
 
-<div>
-<h3>Exercise #1</h3>
-<p>Factor the following quadratic: &nbsp; x<sup>2</sup> + 2x - 63.</p>
-<br><br><br>
-<div>
+
 <h3>Exercise #1</h3>
 <p>Factor the following quadratic: &nbsp; x<sup>2</sup> + 15x + 54.</p>
 <br><br><br>
